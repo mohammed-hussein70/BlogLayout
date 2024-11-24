@@ -68,3 +68,8 @@ body {
   background-color: #aaa;
   text-align: center;
 }
+@media (min-width: 1900px) {
+  .image {
+    height: 600px !important;
+  }
+}
